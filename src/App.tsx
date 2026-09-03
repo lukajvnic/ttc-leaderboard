@@ -152,7 +152,7 @@ function App() {
           This leaderboard is live and shows the average speed<br></br>of all streetcars on a route with ~30 second delay.
         </div>
         <div className="footer">
-          <i>By <a href="https://lukajvnic.com" target="_blank">Luka Jovanovic</a> & <a href="https://matthew-li.dev/" target="_blank">Matthew Li</a> (<a href="https://github.com/lukajvnic/ttc-leaderboard" target="_blank">github</a>)</i>
+          <i>By <a href="https://lukajvnic.com" target="_blank">Luka Jovanovic</a> & <a href="https://matthew-li.dev/" target="_blank">Matthew Li</a></i>
         </div>
       </div>
 
